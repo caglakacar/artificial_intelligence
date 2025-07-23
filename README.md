@@ -44,10 +44,15 @@ Users simply enter a sentence, and the application:
 ## Application Screenshots
 <p align="center">
   <img src="static/homepage.png" alt="Homepage" width="700"/>
-  <img src="static/results.png" alt="Prediction Result Page" width="700"/>
+  <br>
+  <em>Homepage – Users can input a sentence to analyze their emotion and get music recommendations.</em>
 </p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
+<p align="center">
+  <img src="static/results.png" alt="Prediction Result Page" width="700"/>
+  <br>
+  <em>Result Page – Displays predicted emotion and recommended songs based on the input text.</em>
+</p>
 <br>
 
 
